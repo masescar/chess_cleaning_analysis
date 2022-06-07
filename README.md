@@ -2,6 +2,18 @@
 Limpieza y análisis de datos de más de 20000 partidas de ajedrez. Se estudiará si existe alguna condición de victoria para un jugador determinado en función del comportamiento de distintas variables.
 
 
+AUTOR
+
+Carlos Mas Estévez
+
+
+
+CONTACTO
+
+masescar@uoc.edu
+masescar@gmail.com
+
+
 
 ARCHIVOS
 
